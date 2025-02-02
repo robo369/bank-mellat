@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Telegram:@hmze313
+#Telegram:@samil77
 
 API_KEY="YOUR_API_KEY"
 SOURCE_ACCOUNT="1234567890123456"
