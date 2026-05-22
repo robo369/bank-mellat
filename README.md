@@ -16,4 +16,4 @@ chmod +x mellat.sh
 
 
 
-Telegram : @hmza313
+Telegram : 
